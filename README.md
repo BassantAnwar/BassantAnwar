@@ -20,7 +20,7 @@ An enthusiastic Computer Science student passionate about turning complex datase
 - **Description:** Conducted a comprehensive exploratory data analysis (EDA) using Python to filter and visualize movie data trends on Netflix over the years.
 - **Tools Used:** Python, Pandas, Matplotlib.
 
-#### 🩺 [Medical Classification & Predictive Modeling]([https://github.com/BassantAnwar/Medical-Predictive-Modeling](https://github.com/BassantAnwar/Medical-Predictive-Modeling))
+#### 🩺 [Medical Classification & Predictive Modeling](https://github.com/BassantAnwar/Medical-Predictive-Modeling)
 - **Description:** Developed and evaluated machine learning classification models to accurately predict medical outcomes based on patient datasets.
 - **Tools Used:** Scikit-Learn, Pandas, NumPy.
 
